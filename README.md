@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![wakatime](https://wakatime.com/badge/user/ab37e1aa-d6b4-40d3-9115-5ef0b9d621c7.svg?style=for-the-badge)](https://wakatime.com/@ab37e1aa-d6b4-40d3-9115-5ef0b9d621c7)
+
+[![PixelHir's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelHir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Last year stats:
+
+[![PixelHir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PixelHir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
